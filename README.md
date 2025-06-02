@@ -1,8 +1,10 @@
-## Olá, 
+## Fernando Porto
+Florianópolis-SC
+##
 
-- 🔭 DEV Junior Front End/Backend
+- 🔭 DEV Junior FrontEnd/BackEnd
 - 🌱 Estudando Angular, NodeJs, Typescript, JS.
-- 👯 Procurando ingressar na carreira de DEV.
+- 👯 Procurando ingressar no mercado de desenvolvimento de sistemas.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandoportodev&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) 
 
@@ -15,6 +17,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
 ##
 
 <div> 
